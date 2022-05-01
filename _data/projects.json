@@ -100,6 +100,13 @@
     "url": "https://github.com/fengalin/media-toc"
   },
   {
+    "name": "MyCitadel",
+    "url": "https://github.com/mycitadel/mycitadel-desktop",
+    "featured": true,
+    "app_id": "io.mycitadel.gtk",
+    "description": "Bitcoin-only wallet"
+  },
+  {
     "name": "Myxer",
     "url": "https://github.com/Aurailus/Myxer"
   },
